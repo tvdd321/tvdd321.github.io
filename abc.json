@@ -1,0 +1,60 @@
+{
+  "_说明": "影视盒子外部接口配置。服务端(server.js/api.php)会定期拉取本文件确定采集接口，修改后保存即可生效(约 1 分钟内自动刷新)。顶层为源 key -> {name,api,format,cats}；_pro 为高级模式(/aaa 或 mode=pro)的源。请勿删除本文件所在仓库。",
+  "liangzi": {
+    "name": "量子资源",
+    "api": "http://cj.lziapi.com/api.php/provide/vod/",
+    "format": "json",
+    "cats": [
+      { "id": "1", "name": "电影" },
+      { "id": "2", "name": "电视剧" },
+      { "id": "3", "name": "综艺" },
+      { "id": "4", "name": "动漫" }
+    ]
+  },
+  "hongniu": {
+    "name": "红牛资源",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+    "format": "json",
+    "cats": [
+      { "id": "1", "name": "电影" },
+      { "id": "2", "name": "电视剧" },
+      { "id": "3", "name": "综艺" },
+      { "id": "4", "name": "动漫" }
+    ]
+  },
+  "_pro": {
+    "fqzy": {
+      "name": "fqzy资源",
+      "api": "https://fqzy.me/api.php/provide/vod/",
+      "format": "json",
+      "cats": [
+        { "id": "1", "name": "电影" },
+        { "id": "2", "name": "电视剧" },
+        { "id": "3", "name": "综艺" },
+        { "id": "4", "name": "动漫" }
+      ]
+    },
+    "lsb": {
+      "name": "lsb资源",
+      "api": "https://apilsbzy1.com/api.php/provide/vod",
+      "format": "json",
+      "cats": [
+        { "id": "1", "name": "电影" },
+        { "id": "2", "name": "电视剧" },
+        { "id": "3", "name": "综艺" },
+        { "id": "4", "name": "动漫" }
+      ]
+    },
+  "senlin": {
+    "name": "senlin资源",
+    "api": "https://slapibf.com/api.php/provide/vod",
+    "format": "json",
+    "cats": [
+      { "id": "1", "name": "电影" },
+      { "id": "2", "name": "电视剧" },
+      { "id": "3", "name": "综艺" },
+      { "id": "4", "name": "动漫" }
+      ]
+    }
+  }
+}
