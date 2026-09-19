@@ -1,0 +1,8 @@
+{
+  "versionCode": 4,
+  "versionName": "1.3",
+  "note": "fix(app): 修复播放视频/全屏时自动熄屏的问题——播放中保持屏幕常亮，暂停或退出后恢复 ",
+  "apk": "https://github.com/tvdd321/vod-box-android/releases/latest/download/app-arm64-v8a-release.apk",
+  "apkArm64": "https://github.com/tvdd321/vod-box-android/releases/latest/download/app-arm64-v8a-release.apk",
+  "apkArm": "https://github.com/tvdd321/vod-box-android/releases/latest/download/app-armeabi-v7a-release.apk"
+}
