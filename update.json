@@ -1,8 +1,8 @@
 {
   "versionCode": 9,
   "versionName": "1.8",
-  "note": "ci: fallback to debug signing when keystore secrets are missing ",
-  "apk": "https://github.com/tvdd321/vod-box-android/releases/latest/download/app-arm64-v8a-release.apk",
-  "apkArm64": "https://github.com/tvdd321/vod-box-android/releases/latest/download/app-arm64-v8a-release.apk",
-  "apkArm": "https://github.com/tvdd321/vod-box-android/releases/latest/download/app-armeabi-v7a-release.apk"
+  "note": "chore: APK 下载改走 Cloudflare 加速线路 ",
+  "apk": "https://vod-box-dup.pages.dev/dl/main/app-arm64-v8a-release.apk",
+  "apkArm64": "https://vod-box-dup.pages.dev/dl/main/app-arm64-v8a-release.apk",
+  "apkArm": "https://vod-box-dup.pages.dev/dl/main/app-armeabi-v7a-release.apk"
 }
