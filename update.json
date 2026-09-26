@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "note": "chore: APK 下载改走 Cloudflare 加速线路 ",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "note": "优化移动网络下资源接口访问：直连失败时改走 CF 绑定域名中转，修复部分网络无法加载数据的问题 ",
   "apk": "https://vod-box-dup.pages.dev/dl/main/app-arm64-v8a-release.apk",
   "apkArm64": "https://vod-box-dup.pages.dev/dl/main/app-arm64-v8a-release.apk",
   "apkArm": "https://vod-box-dup.pages.dev/dl/main/app-armeabi-v7a-release.apk"
