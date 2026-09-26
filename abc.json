@@ -22,6 +22,23 @@
       { "id": "4", "name": "动漫" }
     ]
   },
+  "ruyi": {
+    "name": "ruyi资源",
+    "api": "https://cj.rycjapi.com/api.php/provide/vod",
+    "format": "json",
+    "cats": [
+      { "id": "1", "name": "电影" },
+      { "id": "2", "name": "电视剧" },
+      { "id": "3", "name": "综艺" },
+      { "id": "4", "name": "动漫" }
+    ]
+  },
+  "tiankong": {
+    "name": "天空资源",
+    "api": "https://api.1080zyku.com/api.php/provide/vod/",
+    "format": "rss",
+    "cats": []
+  },
   "_pro": {
     "fqzy": {
       "name": "fqzy资源",
