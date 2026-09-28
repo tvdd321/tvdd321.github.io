@@ -1,7 +1,7 @@
 {
   "versionCode": 1,
   "versionName": "1.1",
-  "note": "重置版本号至 1.1（versionCode 1），移除失效中转域名 tvgg.de5.net ",
+  "note": "feat: 收藏上限调整为 100 条，历史上限 30 条 ",
   "apk": "https://vod-box-dup.pages.dev/dl/tap/app-arm64-v8a-release.apk",
   "apkArm64": "https://vod-box-dup.pages.dev/dl/tap/app-arm64-v8a-release.apk",
   "apkArm": "https://vod-box-dup.pages.dev/dl/tap/app-armeabi-v7a-release.apk"
